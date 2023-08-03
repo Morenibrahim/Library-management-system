@@ -13,7 +13,7 @@ This code will create a simple Library management system in Python. It uses an S
 Clone the repo with the command line:
 
 ```
-git clone https://github.com/Morenibrahim/Digital-library.git
+https://github.com/Morenibrahim/Library-management-system.git
 ```
 
 Then change to the root directory:
